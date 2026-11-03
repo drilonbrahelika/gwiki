@@ -4,7 +4,7 @@ Thanks for helping. Bug reports, fixes and small features are all welcome.
 
 ## Set up
 
-You need Node 22 (see `.nvmrc`) and a Google OAuth client and a Drive folder to point the app at. The README's **Set up Google Cloud** and **Configure** sections walk through both.
+You need Node 26 (see `.nvmrc`) and a Google OAuth client and a Drive folder to point the app at. The README's **Set up Google Cloud** and **Configure** sections walk through both.
 
 ```bash
 npm install
