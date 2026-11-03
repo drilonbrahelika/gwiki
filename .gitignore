@@ -1,0 +1,6 @@
+node_modules
+dist
+*.tsbuildinfo
+.env*
+# Each deployment brings its own; see public/config.example.json.
+public/config.json

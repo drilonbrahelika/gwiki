@@ -1,0 +1,15 @@
+{
+  "appName": "Wiki",
+  "logoUrl": "",
+  "faviconUrl": "",
+  "googleClientId": "YOUR-CLIENT-ID.apps.googleusercontent.com",
+  "sharedDriveId": "",
+  "rootFolderId": "",
+  "allowedDomain": "",
+  "supportUrl": "",
+  "editing": false,
+  "templatesFolderId": "",
+  "fontsUrl": "",
+  "theme": {},
+  "messages": {}
+}
