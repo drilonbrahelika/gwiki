@@ -123,6 +123,10 @@ src/
 
 Issues and pull requests are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md). Report security issues privately, as described in [SECURITY.md](SECURITY.md).
 
+## More from the author
+
+[AppDoorman](https://appdoorman.com) gives people app accounts from their Google Workspace groups, and takes them away when they leave.
+
 ## License
 
 [MIT](LICENSE)
